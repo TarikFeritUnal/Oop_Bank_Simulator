@@ -2,7 +2,7 @@
 
 This is a basic object-oriented Java application that simulates simple banking operations such as deposit, withdrawal, and balance inquiry.
 
----
+
 ## Features
 
 - Create a bank account with an initial balance and account holder name.
@@ -11,13 +11,12 @@ This is a basic object-oriented Java application that simulates simple banking o
 - Check current balance.
 - Simple CLI-based (console) interface.
 
----
+
 ## Technologies Used
 
 - Java (OOP concepts)
 - Scanner (for user input)
 
----
 
 ## OOP Concepts Demonstrated
 - Encapsulation: Private fields with getters and setters.
